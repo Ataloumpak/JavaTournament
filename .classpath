@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JavaTournament/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/JavaTournament.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="dist/lib/lzma.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slick.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
